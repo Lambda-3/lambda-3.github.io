@@ -1,3 +1,5 @@
+![](lambda3.png)
+
 ## Lambda³
 
 Artificial Intelligence (AI) and Natural Language Processing (NLP) applications are radically different from traditional information systems. The construction of AI systems depends on the orchestration of complex and resource intensive techniques. Creating real-world AI goes way beyond the application of Machine Learning.
