@@ -29,5 +29,6 @@ The core __Lambda³__ components include:
 
 ## Key Supporting Institution
 
-* NLP & Semantic Computing Group (University of Passau)
+* NLP & Semantic Computing Group ([University of Passau](http://www.uni-passau.de))
+
 ![](passau.jpg)
