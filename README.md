@@ -15,3 +15,20 @@ The core __Lambda³__ components include:
 * Knowledge Bases and resources
 * … and much more to come.
 
+## Contributors (in alphabetical order)
+
+* Andre Freitas
+* Bernhard Bermeitinger
+* Christina Niklaus
+* Juliano Sales
+* Leonardo Souza
+* Matthias Cetto
+* Sahar M'barek
+* Siamak Barzegar
+* Siegfried Handschuh
+
+## Key Supporting Institution
+
+* NLP & Semantic Computing Group ([University of Passau](http://www.uni-passau.de))
+
+![](passau.jpg)
