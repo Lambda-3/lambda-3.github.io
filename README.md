@@ -27,7 +27,7 @@ The core __Lambda³__ components include:
 * Siamak Barzegar
 * Siegfried Handschuh
 
-## Key Supporting Institution
+## Leading Institution
 
 * NLP & Semantic Computing Group ([University of Passau](http://www.uni-passau.de))
 
